@@ -18,9 +18,9 @@ The system deals with the development of an application for automation of video 
 
 **METHODOLOGY**
 
-The project follows a methodology of creating a system that is cost effective and has less hardware requirements.Thus,without making changes to the existing system this system can be used for ATM surveliance.
+The project follows a methodology of creating a system that is cost effective and has less hardware requirements.Thus,without making changes to the existing system this system can be used for ATM surveillance.
 The primary approach for the proposed system  consists of -Background Subtraction,Object Detection and tracking, Feature Extractions,and Pattern Matching. 
-The proposed system includes the specialised mechanisms for Camera Tampering, Human Collision, Risky voice analysis, Long Time Tracking, Counting the number of peoples. An alert (siren) will be generated each time anyone tries to destroy/tamper the camera by any means.Also, an alert will be generated if someone enters the chamber by covering his/her face by any means.Words like "HELP", "EMERGENCY" etc. will also be recognized by the inbuilt mic inside camera in case any person availing ATM services is attacked by robbers.The chamber gates will be locked, thus locking robbers/anti social elements inside, till police arrives.A mail will be send to the nearest police station and bank admin so that immediate actions can be taken.The entire mechanism takes place in real time, thus decreasing the time complexity to a great extent making the system an efficient mechanism to prevent any anti social activities.The space complexity will be reduced by processing only suspicious frames of a video and storing only such videos.
+The proposed system includes the specialized mechanisms for Camera Tampering, Human Collision, Risky voice analysis, Long Time Tracking, Counting the number of peoples. An alert (siren) will be generated each time anyone tries to destroy/tamper the camera by any means.Also, an alert will be generated if someone enters the chamber by covering his/her face by any means.Words like "HELP", "EMERGENCY" etc. will also be recognized by the inbuilt mic inside camera in case any person availing ATM services is attacked by robbers.The chamber gates will be locked, thus locking robbers/anti social elements inside, till police arrives.A mail will be send to the nearest police station and bank admin so that immediate actions can be taken.The entire mechanism takes place in real time, thus decreasing the time complexity to a great extent making the system an efficient mechanism to prevent any anti social activities.The space complexity will be reduced by processing only suspicious frames of a video and storing only such videos.
 
 
 **RELATION OF THE PROJECT TO LOCAL PROBLEM**
@@ -34,19 +34,19 @@ Thus, the idea is to develop an application for automation of video surveillance
 
 The future scope of the project consist os the following-
 
-    • The system can be further used at various other crime locations for survelliance and crime prevention.
+    • The system can be further used at various other crime locations for surveillance and crime prevention.
     • It can be used in old age homes in place of panic button to identify a mishappening.
-    • It can be used for home survelliance.
-    • It can be used in farm fields for survelliance of crops.
+    • It can be used for home surveillance.
+    • It can be used in farm fields for surveillance of crops.
     • It can be used to avoid terrorist attacks.
 
 **RESULT**
 
-After training the machine using the training data, the algorithm was be able to detect abnormal and normal behaviours as expected. For example, if the person is trying to destroy the ATM or is trying to peep or is trying to block the camera then the system fired the alarm. When there is no such activity as shown in no alarm was fired.
+After training the machine using the training data, the algorithm was be able to detect abnormal and normal behaviors as expected. For example, if the person is trying to destroy the ATM or is trying to peep or is trying to block the camera then the system fired the alarm. When there is no such activity as shown in no alarm was fired.
 
 
 **CONCLUSION**
 
-The existing security for the present days ATM are facing a number of threats.Among these threats thefts in the ATM system is most common one.This project mainly focus on building an intelligent system that provide high class security to existing ATM system.The video stream obtained from the survelliance camera in the ATM room is feed to this framework.Based on the activities performed by the customer in the ATM room the system will report suspisious activities instantaneously.The main focus area of this project is to prevent crime in ATM by using image processing and machine learning.By implementing the proposed system in the existing ATM a robust atmosphere is created,which evaluate each and every actions inside the ATM.
+The existing security for the present days ATM are facing a number of threats.Among these threats thefts in the ATM system is most common one.This project mainly focus on building an intelligent system that provide high class security to existing ATM system.The video stream obtained from the surveillance camera in the ATM room is feed to this framework.Based on the activities performed by the customer in the ATM room the system will report suspicious activities instantaneously.The main focus area of this project is to prevent crime in ATM by using image processing and machine learning.By implementing the proposed system in the existing ATM a robust atmosphere is created,which evaluate each and every actions inside the ATM.
 
 
