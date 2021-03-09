@@ -1,4 +1,4 @@
-# Third-Eye
+# Third-Eye [Patent Published | Pending Grant]
 
 **INTRODUCTION/BACKGROUND**
 
