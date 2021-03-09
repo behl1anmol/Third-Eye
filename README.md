@@ -1,6 +1,5 @@
 # Third-Eye 
-
-[Patent PublishedPending Grant]
+# [Patent PublishedPending Grant]
 
 **INTRODUCTION/BACKGROUND**
 
